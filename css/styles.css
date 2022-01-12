@@ -1,0 +1,36 @@
+.simple-navbar{
+    background-color: #562EFF;
+    width:100%;
+    height: 94px;
+}
+.nav-bar{
+    display: flex;
+}
+.left-part{
+    margin-left: 285px;
+
+}
+.nav-bar li{
+    list-style: none;
+}
+.left-part ul{
+    display: flex;
+    align-items: center;
+    /* flex-direction:row; */
+    /* align-content:space-between ; */
+}
+.logo-resize{
+    width: 40.42px;
+    height: 51px;
+}
+.web-name{
+    margin-left: 16px;
+    margin-right: 416px;
+}
+.right-part ul{
+    display: flex;
+    align-items: center;
+}
+.right-part ul li{
+    margin-left: 36px;
+}
